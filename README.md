@@ -8,8 +8,9 @@ Bu betik, verilen bir akıllı sözleşmenin kaynak kodunu alır ve yaygın olar
 - Nasıl Kullanılır
 
 1. Bu betiği çalıştırmak için Python 3.6 veya üstü bir sürümü gereklidir.
-2. `requests` kütüphanesini yüklemek için aşağıdaki komutu kullanın:
-3. python3 SmartContract_Vuln_Scanner.py
+2. EtherScan tarafından bir api alın. https://etherscan.io/
+3. `requests` kütüphanesini yüklemek için aşağıdaki komutu kullanın:
+4. python3 SmartContract_Vuln_Scanner.py
 
 <img width="470" alt="Ekran Resmi 2023-07-09 17 58 05" src="https://github.com/alperenugurlu/SmartContract_Vuln_Scanner/assets/64872731/21d635e3-139a-4fb6-9452-e661b0cb41ed">
 
